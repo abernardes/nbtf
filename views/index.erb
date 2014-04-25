@@ -5,13 +5,31 @@
     <title>Nothing but the funk feed reader</title>
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   </head>
-  <body>
-    <div class="container">
-      <ul>
-        <% @entries.each do |entry| %>
-          <li><%= entry[:title] %></li>
-        <% end %>
-      </ul>
+  <body style="margin-top: 40px;">
+    <div class="container" style="max-width: 730px;">
+      <div class="page-header">
+        <h1>Nothing but the funk feed reader</h1>
+      </div>
+
+      <form method="post" action="/feed">
+        <div class="row">
+          <div class="col-md-10">
+            <div class="form-group">
+              <input type="text" class="form-control" id="feed_url" name="feed_url" placeholder="Enter feed url">
+            </div>
+          </div>
+          <div class="col-md-2">
+            <button type="submit" class="btn btn-primary">Funk it</button>
+          </div>
+        </div>
+      </form>
+      <% if @entries %>
+        <ul>
+          <% @entries.each do |entry| %>
+            <li><%= entry[:title] %></li>
+          <% end %>
+        </ul>
+      <% end %>
     </div>
   </body>
 </html>

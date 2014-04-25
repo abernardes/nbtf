@@ -5,11 +5,22 @@ describe Feed do
 
   let(:user) { double(:user) }
 
+  let(:feed) { Feed.new(url, user) }
+
   describe ".initialize" do
     it "sets the feed's endpoint URL" do
-      feed = Feed.new(url, user)
-
       expect(feed.url).to eq url
+    end
+  end
+
+  describe "#entries" do
+    it "delegates the fetching to the mapper" do
+      mapper = double(:mapper)
+      feed.mapper = mapper
+
+      mapper.should_receive(:fetch).with(url)
+
+      feed.entries
     end
   end
 end

@@ -1,11 +1,13 @@
 require_relative '../services/entry_fetch_service'
 
 class EntryFetchMapper
-  def initialize(url, fetch_service = EntryFetchService)
-    @url, @fetch_service = url, fetch_service
+  def initialize(fetch_service = EntryFetchService)
+    @fetch_service = fetch_service
   end
 
-  def fetch
+  def fetch(url)
+    @url = url
+
     entries.map do |entry|
       {
         author: entry.author,
