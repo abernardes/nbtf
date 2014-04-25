@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>RubyFlow</title>
+    <link>http://www.rubyflow.com/</link>
+    <description>Ruby Links</description>
+    <language>en-us</language>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Rubyflow" /><feedburner:info uri="rubyflow" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>Ruby - the good parts</title>
+      <description>Kamil Bielawski from our team at &lt;a href="http://www.amberbit.com"&gt;AmberBit&lt;/a&gt; posted a &lt;a href="http://www.amberbit.com/blog/2014/4/10/ruby-the-good-parts/"&gt; blog post about what he think are good parts of Ruby language&lt;/a&gt;. Do not miss it!&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=r0_YaxmurMA:MuxAPY49um8:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=r0_YaxmurMA:MuxAPY49um8:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/r0_YaxmurMA" height="1" width="1"/&gt;</description>
+      <pubDate>Mon, 14 Apr 2014 09:26:33 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/r0_YaxmurMA/10883-ruby-the-good-parts</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10883-ruby-the-good-parts</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10883-ruby-the-good-parts</feedburner:origLink></item>
+    <item>
+      <title>Episode 19 - Dates with MHPrettyDate, NSCalendar, and NSDateComponents</title>
+      <description>Dates are an important part of a lot of applications, and how you display them for their context can make a difference to how quickly users parse the information on screen. In this episode I walk you through getting the MHPrettyDate cocoapod set up in the Tasker application, and show you how to use NSCalendar and NSDateComponents to work with dates properly.
+&lt;br&gt;&lt;br&gt;&lt;a href="https://motioninmotion.tv/screencasts/20"&gt;https://motioninmotion.tv/screencasts/20&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=PHkkZJuhbsU:U_Ct6l0yhmU:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=PHkkZJuhbsU:U_Ct6l0yhmU:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/PHkkZJuhbsU" height="1" width="1"/&gt;</description>
+      <pubDate>Mon, 14 Apr 2014 07:03:21 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/PHkkZJuhbsU/10882-episode-19-dates-with-mhprettydate-nscalendar-and-nsdatecompo</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10882-episode-19-dates-with-mhprettydate-nscalendar-and-nsdatecompo</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10882-episode-19-dates-with-mhprettydate-nscalendar-and-nsdatecompo</feedburner:origLink></item>
+    <item>
+      <title>supervision gem release 0.1</title>
+      <description>I've released &lt;a href="https://github.com/peter-murach/supervision"&gt;supervision&lt;/a&gt; that aids writing more resilient and self-healing distributed systems. Please check it out! Any &lt;a href="https://github.com/peter-murach/supervision/issues"&gt;feedback&lt;/a&gt; appreciated!&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=GCnEsDKJY3E:EhHK5Yp_gdU:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=GCnEsDKJY3E:EhHK5Yp_gdU:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/GCnEsDKJY3E" height="1" width="1"/&gt;</description>
+      <pubDate>Sun, 13 Apr 2014 23:50:22 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/GCnEsDKJY3E/10880-supervision-gem-release-0-1</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10880-supervision-gem-release-0-1</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10880-supervision-gem-release-0-1</feedburner:origLink></item>
+    <item>
+      <title>FiniteMachine 0.4.0 is out!</title>
+      <description>The &lt;a href="https://github.com/peter-murach/finite_machine"&gt;finite_machine&lt;/a&gt; gets stable and stronger.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=zCXugBHf08M:LtY6FBKaJ3Y:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=zCXugBHf08M:LtY6FBKaJ3Y:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/zCXugBHf08M" height="1" width="1"/&gt;</description>
+      <pubDate>Sun, 13 Apr 2014 20:20:00 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/zCXugBHf08M/10879-finitemachine-0-4-0-is-out</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10879-finitemachine-0-4-0-is-out</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10879-finitemachine-0-4-0-is-out</feedburner:origLink></item>
+    <item>
+      <title>Background Burner - Remove background from image via API</title>
+      <description>We just launched the our biggest Ruby project so far, a tool that can identify the foreground/background of an image and return results. &lt;a href="http://www.bonanza.com/blog/main/Background_Burner_API"&gt;Let us know what you think&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=q5iXozacpH8:91nYo3fP2KU:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=q5iXozacpH8:91nYo3fP2KU:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/q5iXozacpH8" height="1" width="1"/&gt;</description>
+      <pubDate>Fri, 11 Apr 2014 19:26:52 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/q5iXozacpH8/10875-background-burner-remove-background-from-image-via-api</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10875-background-burner-remove-background-from-image-via-api</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10875-background-burner-remove-background-from-image-via-api</feedburner:origLink></item>
+    <item>
+      <title>Introducing Hound</title>
+      <description>&lt;a href="http://robots.thoughtbot.com/introducing-hound"&gt;We're pleased to announce Hound&lt;/a&gt;, a hosted service that comments on Ruby style guide violations in your GitHub pull requests.
+&lt;br&gt;&lt;br&gt;Hound is currently free and available for public and private GitHub projects. We intend to charge in the near future to ensure Hound is sustainable, but public projects will continue to be free. &lt;a href="https://github.com/thoughtbot/hound"&gt;Hound is also open source&lt;/a&gt;.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=ZG4t5NVEOnk:eIXGYteywHg:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=ZG4t5NVEOnk:eIXGYteywHg:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/ZG4t5NVEOnk" height="1" width="1"/&gt;</description>
+      <pubDate>Thu, 10 Apr 2014 00:42:20 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/ZG4t5NVEOnk/10862-introducing-hound</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10862-introducing-hound</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10862-introducing-hound</feedburner:origLink></item>
+    <item>
+      <title>O'Reilly Programming Blog: Ruby - The Unit Test-Friendly Language</title>
+      <description>Another post on the O'Reilly Programming blog, on how &lt;a href="http://programming.oreilly.com/2014/04/ruby-the-unit-test-friendly-language.html"&gt;Ruby makes it easy to create mocks and stubs&lt;/a&gt; for unit tests.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=t8u8zqhaRjA:vlvJ_mhnNck:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=t8u8zqhaRjA:vlvJ_mhnNck:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/t8u8zqhaRjA" height="1" width="1"/&gt;</description>
+      <pubDate>Wed, 09 Apr 2014 16:54:45 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/t8u8zqhaRjA/10858-o-reilly-programming-blog-ruby-the-unit-test-friendly-languag</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10858-o-reilly-programming-blog-ruby-the-unit-test-friendly-languag</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10858-o-reilly-programming-blog-ruby-the-unit-test-friendly-languag</feedburner:origLink></item>
+    <item>
+      <title>Repository for Ruby domain objects in Elasticsearch</title>
+      <description>Check out a draft of Ruby domain objects persistence in Elasticsearch via &lt;a href="https://github.com/elasticsearch/elasticsearch-rails/tree/persistence/elasticsearch-persistence#usage"&gt;the repository pattern&lt;/a&gt;. Live application available at &lt;a href="http://bit.ly/persistence-sinatra"&gt;http://bit.ly/persistence-sinatra&lt;/a&gt; (&lt;a href="https://github.com/elasticsearch/elasticsearch-rails/blob/persistence/elasticsearch-persistence/examples/sinatra/application.rb"&gt;source at Github&lt;/a&gt;).&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=Im_LxtCf30M:nmboiasz6Zk:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=Im_LxtCf30M:nmboiasz6Zk:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/Im_LxtCf30M" height="1" width="1"/&gt;</description>
+      <pubDate>Wed, 09 Apr 2014 10:08:08 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/Im_LxtCf30M/10854-repository-for-ruby-domain-objects-in-elasticsearch</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10854-repository-for-ruby-domain-objects-in-elasticsearch</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10854-repository-for-ruby-domain-objects-in-elasticsearch</feedburner:origLink></item>
+    <item>
+      <title>5 Starter Apps for Rails 4.1 from Rails Composer</title>
+      <description>Rails 4.1 was released today and Rails Composer is up to date with &lt;a href="http://blog.railsapps.org/post/79115273530/5-starter-apps-for-rails-4-1-from-rails-composer"&gt;5 Starter Apps for Rails 4.1&lt;/a&gt;.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=AHpYUctR1Sg:Z_LulBYFjWE:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=AHpYUctR1Sg:Z_LulBYFjWE:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/AHpYUctR1Sg" height="1" width="1"/&gt;</description>
+      <pubDate>Wed, 09 Apr 2014 08:13:16 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/AHpYUctR1Sg/10853-5-starter-apps-for-rails-4-1-from-rails-composer</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10853-5-starter-apps-for-rails-4-1-from-rails-composer</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10853-5-starter-apps-for-rails-4-1-from-rails-composer</feedburner:origLink></item>
+    <item>
+      <title>A Guide to Choosing the Best Gems for Your Ruby Project</title>
+      <description>If you need something done in Ruby, a gem for it probably exists. Well, a dozen gems for it probably exist. Some of them are elegant, featureful, and well-maintained, and others were written to solve one use case the author ran into that one time. &lt;a href="http://www.justinweiss.com/blog/2014/04/07/a-guide-to-choosing-the-best-gems-for-your-ruby-project/"&gt;You have lots of gems to choose from, so how do you choose the right one?&lt;/a&gt; This choice is important — by the time you regret adding a gem to your project, it’s painful to change back.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=2ynPljVok9U:Zk1p3de8vSg:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=2ynPljVok9U:Zk1p3de8vSg:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/2ynPljVok9U" height="1" width="1"/&gt;</description>
+      <pubDate>Tue, 08 Apr 2014 16:40:33 +0200</pubDate>
+      <link>http://feedproxy.google.com/~r/Rubyflow/~3/2ynPljVok9U/10851-a-guide-to-choosing-the-best-gems-for-your-ruby-project</link>
+      <guid isPermaLink="false">http://www.rubyflow.com/items/10851-a-guide-to-choosing-the-best-gems-for-your-ruby-project</guid>
+    <feedburner:origLink>http://www.rubyflow.com/items/10851-a-guide-to-choosing-the-best-gems-for-your-ruby-project</feedburner:origLink></item>
+  </channel>
+</rss>
