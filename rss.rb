@@ -9,8 +9,6 @@ end
 
 post '/feed' do
   url = params[:feed_url]
-
-  binding.pry
   feed = CreateFeed.new(url, nil).create
 
   @entries = feed.entries

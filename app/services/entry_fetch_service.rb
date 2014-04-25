@@ -1,7 +1,6 @@
 require 'rss'
 require 'open-uri'
 require 'active_support/all'
-require 'pry'
 
 class EntryFetchService
   cattr_accessor :backend
