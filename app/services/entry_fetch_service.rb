@@ -1,12 +1,19 @@
 require 'rss'
 require 'open-uri'
-require 'active_support/all'
 
 class EntryFetchService
-  cattr_accessor :backend
+  class << self
+    def backend
+      @backend
+    end
 
-  def self.fetch(url)
-    backend.fetch(url)
+    def backend=(backend)
+      @backend = backend
+    end
+
+    def fetch(url)
+      backend.fetch(url)
+    end
   end
 
   class FeedSiteBackend
