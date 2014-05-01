@@ -3,7 +3,7 @@ require_relative '../spec_helper'
 class FeedFixtureBackend
   def self.fetch(url)
     File.open('spec/fixtures/feed_fixture.rss', 'r') do |rss|
-      RSS::Parser.parse(rss).items
+      RSS::Parser.parse(rss)
     end
   end
 end
@@ -16,6 +16,6 @@ describe "Loading feed data" do
     fill_in "feed_url", :with => "http://example.com/feed"
     click_button "Funk it"
 
-    expect(page).to have_content "Ruby - the good parts"
+    expect(page).to have_content "A Guide to Choosing the Best Gems for Your Ruby Project"
   end
 end

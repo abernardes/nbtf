@@ -30,8 +30,8 @@ describe Feed do
 
       entries = feed.entries
 
-      expect(entries.count).to eq 10
-      expect(entries.first[:title]).to eq "Ruby - the good parts"
+      expect(entries.count).to eq 1
+      expect(entries.first[:title]).to eq "A Guide to Choosing the Best Gems for Your Ruby Project"
     end
   end
 end

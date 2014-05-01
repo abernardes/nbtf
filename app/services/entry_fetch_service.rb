@@ -19,7 +19,7 @@ class EntryFetchService
   class FeedSiteBackend
     def self.fetch(url)
       open(url) do |rss|
-        RSS::Parser.parse(rss).items
+        RSS::Parser.parse(rss)
       end
     end
   end

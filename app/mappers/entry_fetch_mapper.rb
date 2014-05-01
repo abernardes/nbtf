@@ -1,4 +1,5 @@
 require_relative '../services/entry_fetch_service'
+require_relative '../../lib/feed_duck'
 
 class EntryFetchMapper
   def initialize(fetch_service = EntryFetchService)
@@ -8,23 +9,19 @@ class EntryFetchMapper
   def fetch(url)
     @url = url
 
-    entries.map do |entry|
-      {
-        author: entry.author,
-        published_at: entry.pubDate,
-        title: entry.title,
-        content: entry.description,
-        url: entry.link,
-        id: entry.guid.content
-      }
-    end
+    map_feed(feed)
   end
 
   private
 
   attr_reader :fetch_service, :url
 
-  def entries
-    fetch_service.fetch(url)
+  def feed
+    @feed ||= fetch_service.fetch(url)
+  end
+
+  def map_feed(feed)
+    FeedDuck.new.map_feed(feed)
   end
 end
+
