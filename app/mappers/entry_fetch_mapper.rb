@@ -1,5 +1,4 @@
 require_relative '../services/entry_fetch_service'
-require_relative '../../lib/feed_duck'
 
 class EntryFetchMapper
   def initialize(fetch_service = EntryFetchService)

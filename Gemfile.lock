@@ -10,6 +10,7 @@ GEM
       xpath (~> 2.0)
     coderay (1.1.0)
     diff-lcs (1.1.3)
+    feed_duck (0.0.1)
     launchy (2.4.2)
       addressable (~> 2.3)
     method_source (0.8.2)
@@ -48,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  feed_duck
   launchy
   pry
   rspec
