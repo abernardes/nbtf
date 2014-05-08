@@ -1,4 +1,4 @@
-require 'feed_duck'
+require_relative '../../lib/feed_duck'
 require 'open-uri'
 
 class EntryFetchService
