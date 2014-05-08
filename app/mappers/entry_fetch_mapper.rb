@@ -21,7 +21,7 @@ class EntryFetchMapper
   end
 
   def map_feed(feed)
-    FeedDuck.new.map_feed(feed)
+    feed.to_h[:entries]
   end
 end
 

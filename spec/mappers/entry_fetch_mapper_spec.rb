@@ -3,8 +3,8 @@ require 'pry'
 
 class AtomFeedFixtureBackend
   def self.fetch(url)
-    File.open('spec/fixtures/feed_fixture.atom', 'r') do |rss|
-      RSS::Parser.parse(rss)
+    File.open('spec/fixtures/feed_fixture.atom', 'r') do |feed|
+      FeedDuck::Parser.parse(feed)
     end
   end
 end
@@ -12,7 +12,7 @@ end
 class FeedFixtureBackend
   def self.fetch(url)
     File.open('spec/fixtures/feed_fixture.rss', 'r') do |rss|
-      RSS::Parser.parse(rss)
+      FeedDuck::Parser.parse(rss)
     end
   end
 end

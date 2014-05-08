@@ -1,4 +1,4 @@
-require 'rss'
+require 'feed_duck'
 require 'open-uri'
 
 class EntryFetchService
@@ -19,7 +19,7 @@ class EntryFetchService
   class FeedSiteBackend
     def self.fetch(url)
       open(url) do |rss|
-        RSS::Parser.parse(rss)
+        FeedDuck::Parser.parse(rss)
       end
     end
   end

@@ -8,9 +8,7 @@
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Rubyflow" /><feedburner:info uri="rubyflow" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
     <item>
       <title>A Guide to Choosing the Best Gems for Your Ruby Project</title>
-      <description>If you need something done in Ruby, a gem for it probably exists. Well, a dozen gems for it probably exist. Some of them are elegant, featureful, and well-maintained, and others were written to solve one use case the author ran into that one time. &lt;a href="http://www.justinweiss.com/blog/2014/04/07/a-guide-to-choosing-the-best-gems-for-your-ruby-project/"&gt;You have lots of gems to choose from, so how do you choose the right one?&lt;/a&gt; This choice is important — by the time you regret adding a gem to your project, it’s painful to change back.&lt;div class="feedflare"&gt;
-&lt;a href="http://feeds.feedburner.com/~ff/Rubyflow?a=2ynPljVok9U:Zk1p3de8vSg:3H-1DwQop_U"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Rubyflow?i=2ynPljVok9U:Zk1p3de8vSg:3H-1DwQop_U" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Rubyflow/~4/2ynPljVok9U" height="1" width="1"/&gt;</description>
+      <description>If you need something done in Ruby, a gem for it probably exists.</description>
       <pubDate>Tue, 08 Apr 2014 16:40:33 +0200</pubDate>
       <author>Author</author>
       <link>http://feedproxy.google.com/~r/Rubyflow/~3/2ynPljVok9U/10851-a-guide-to-choosing-the-best-gems-for-your-ruby-project</link>
